@@ -39,7 +39,7 @@ function BookEvent({formData, setFormData,setIsSubmitted}) {
        <Box
       sx={{
         height: '50vh',
-        backgroundImage: 'url(src/assets/ruby.png)',
+        backgroundImage: 'url(ruby.png)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         display: 'flex',

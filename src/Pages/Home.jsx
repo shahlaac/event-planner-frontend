@@ -78,7 +78,7 @@ function Home() {
       <Box
         sx={{
           height: '100vh',
-          backgroundImage: 'url(/src/assets/ruby.png)',
+          backgroundImage: 'url(/ruby.png)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           display: 'flex',
