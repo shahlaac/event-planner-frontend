@@ -1,0 +1,1 @@
+export const ServerURL ='https://event-planner-backend-3.onrender.com'
